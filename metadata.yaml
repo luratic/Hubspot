@@ -1,5 +1,5 @@
 homepage: "https://github.com/precariostecnicos/Hubspot"
 documentation: "https://github.com/precariostecnicos/Hubspot"
 versions:
-  - sha: 
+  - sha: 15abe445e2436c834571c6c92e41d83c4dcd2e4f
     changeNotes: Initial release.

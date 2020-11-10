@@ -1,5 +1,9 @@
 homepage: "https://www.luratic.com"
 documentation: "https://www.luratic.com/posts/templates/tags/hubspot/"
 versions:
+  # Latest version
+  - sha: 1a0d692f1d89bf3839e0a595775d3cb1b1d69ba3
+    changeNotes: Improve and update documentation.
+  # Older versions  
   - sha: 15abe445e2436c834571c6c92e41d83c4dcd2e4f
     changeNotes: Initial release.
